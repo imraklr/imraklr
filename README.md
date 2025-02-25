@@ -1,35 +1,39 @@
 <div align="center">
 
-# $${\color{#e07a5f} 𝓢 \color{#000000}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#e07a5f} Ξ \color{#000000}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
+# $${\color{#e07a5f} 𝓢 \color{#72a8ba}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#e07a5f} Ξ \color{#72a8ba}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
 
 </div>
 
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=40&bg_color=00000000&line=e9d3d0&area=true&area_color=e86a92&color=03120e&hide_border=true&grid=false&hide_title=true&point=da4167)](https://github.com/imraklr/github-readme-activity-graph)
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=40&bg_color=00000000&line=72a8ba&area=true&area_color=72a8ba&color=72a8ba&hide_border=true&grid=false&hide_title=true&point=72a8ba)](https://github.com/imraklr/github-readme-activity-graph)
 
-<hr>
-  <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <a href="https://" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-    </a>
-    <a href="https://www.linkedin.com/in/rakesh-kumar-4804b71a0/" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://stackoverflow.com/users/14105067/imraklr" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-    </a>
-    <a href="https://medium.com/@rakesh.reads.writes" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-    </a>
-    <a href="mailto:rakesh.at.work.9@gmail.com" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a>
-      <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=0e75b6&style=flat" alt="imraklr"/>
-    </a>
-  </div>
-<hr>
+<div align="center">
+  
+  ## ${\color{#497D74}𝐿 \color{#71BBB2}𝒾 \color{#71BBB2}𝓃 \color{#71BBB2}𝓀 \color{#71BBB2}𝓈} $
+  
+  <a href="https://" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rakesh-kumar-4804b71a0/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/14105067/imraklr" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@rakesh.reads.writes" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:rakesh.at.work.9@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=0e75b6&style=flat" alt="imraklr"/>
+  </a>
+</div>
 
-<div style="display: flex; margin: auto; padding: 20px;">
+<div align="center">
+
+  ## ${\color{#F96E2A}𝒮 \color{#FBF8EF}𝓀 \color{#C9E6F0}𝒾 \color{#78B3CE}𝓁 \color{#78B3CE}𝓁 \color{#78B3CE}𝓈} $
+  
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
@@ -50,12 +54,6 @@
   <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"/>
 </div>
 
-<hr>
+## ${} $
 
-<div align="center">
-
-![](https://github-trophies.vercel.app/?username=imraklr&theme=flat&no-frame=true&no-bg=true&margin-w=4&bg_color=00000000)
-
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=88292F&accent_color=2e4052&bg_color=c5b1b7&author_color=ac3931)
- 
-</div>
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=497D74&accent_color=4DA1A9&bg_color=00000000&author_color=9ACBD0" style="width: 100%; background-color: linear-gradient(to right, #c5b1b7, #e0d0d5);">
