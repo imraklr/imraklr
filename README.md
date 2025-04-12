@@ -32,7 +32,7 @@
 
 <div align="center">
 
-  ## ${\color{#F96E2A}𝒮 \color{#FBF8EF}𝓀 \color{#C9E6F0}𝒾 \color{#78B3CE}𝓁 \color{#78B3CE}𝓁 \color{#78B3CE}𝓈} $
+  ## ${\color{#F96E2A}𝒮 \color{#00F8EF}𝓀 \color{#C9E6F0}𝒾 \color{#78B3CE}𝓁 \color{#78B3CE}𝓁 \color{#78B3CE}𝓈} $
   
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
