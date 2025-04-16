@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ## ${\color{#497D74}𝐿 \color{#71BBB2}𝒾 \color{#71BBB2}𝓃 \color{#71BBB2}𝓀 \color{#71BBB2}𝓈} $
+  ## ${\color{#636363}𝐿 \color{#71BBB2}𝒾 \color{#71BBB2}𝓃 \color{#71BBB2}𝓀 \color{#71BBB2}𝓈} $
   
   <a href="https://" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-  ## ${\color{#F96E2A}𝒮 \color{#00F8EF}𝓀 \color{#C9E6F0}𝒾 \color{#78B3CE}𝓁 \color{#78B3CE}𝓁 \color{#78B3CE}𝓈} $
+  ## ${\color{#636363}𝒮 \color{#72a8ba}𝓀 \color{#72a8ba}𝒾 \color{#72a8ba}𝓁 \color{#72a8ba}𝓁 \color{#72a8ba}𝓈} $
   
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
