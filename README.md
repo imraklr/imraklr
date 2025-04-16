@@ -33,7 +33,8 @@
 <div align="center">
 
   ## ${\color{#636363}𝒮 \color{#72a8ba}𝓀 \color{#72a8ba}𝒾 \color{#72a8ba}𝓁 \color{#72a8ba}𝓁 \color{#72a8ba}𝓈} $
-  
+
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
