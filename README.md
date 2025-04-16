@@ -1,6 +1,6 @@
 <div align="center">
 
-# $${\color{#e07a5f} 𝓢 \color{#72a8ba}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#e07a5f} Ξ \color{#72a8ba}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
+# $${\color{#636363} 𝓢 \color{#72a8ba}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#e07a5f} Ξ \color{#636363}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
 
 </div>
 
