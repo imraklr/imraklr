@@ -13,7 +13,7 @@
   <a href="https://" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
-  <a href="https://www.linkedin.com/in/rakesh-kumar-4804b71a0/" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/rakesh-kumar-g5/" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/14105067/imraklr" style="margin: 0 10px;">
