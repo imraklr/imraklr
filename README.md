@@ -48,8 +48,6 @@
 
   <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=808080&accent_color=4DA1A9&bg_color=00000000&author_color=9ACBD0" style="width: 100%; background-color: linear-gradient(to right, #c5b1b7, #e0d0d5);">
 
-## ${} $
-
 <div align="center">
   <a>
     <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=222222&style=flat" alt="imraklr"/>
