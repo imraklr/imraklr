@@ -4,7 +4,7 @@
 
 </div>
 
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=60&bg_color=00000000&line=72a8ba&area=true&area_color=72a8ba&color=72a8ba&hide_border=true&grid=false&hide_title=true&point=72a8ba)](https://github.com/imraklr/github-readme-activity-graph)
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=50&bg_color=00000000&line=72a8ba&area=true&area_color=72a8ba&color=72a8ba&hide_border=true&grid=false&hide_title=true&point=72a8ba)](https://github.com/imraklr/github-readme-activity-graph)
 
 <div align="center">
   
