@@ -25,9 +25,6 @@
   <a href="mailto:rakesh.at.work.9@gmail.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=222222&style=flat" alt="imraklr"/>
-  </a>
 </div>
 
 <div align="center">
