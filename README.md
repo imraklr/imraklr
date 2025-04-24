@@ -25,6 +25,9 @@
   <a href="mailto:rakesh.at.work.9@gmail.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://mastodon.social/@rkshkr" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/>
+  </a>
 </div>
 
 <div align="center">
