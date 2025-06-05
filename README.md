@@ -1,6 +1,6 @@
 <div align="center">
 
-# $${\color{#636363} 𝓢 \color{#72a8ba}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#636363} Ξ \color{#72a8ba}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
+# 𝓢ℴ𝒻𝓉𝓌𝒶𝓇ℯ Ξ𝓃ℊ𝒾𝓃ℯℯ𝓇
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ## ${\color{#636363}𝐿 \color{#71BBB2}𝒾 \color{#71BBB2}𝓃 \color{#71BBB2}𝓀 \color{#71BBB2}𝓈} $
+  ## 𝐿𝒾𝓃𝓀𝓈
   
   <a href="https://" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-  ## ${\color{#636363}𝒮 \color{#72a8ba}𝓀 \color{#72a8ba}𝒾 \color{#72a8ba}𝓁 \color{#72a8ba}𝓁 \color{#72a8ba}𝓈} $
+  ## 𝒮𝓀𝒾𝓁𝓁𝓈
 
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
