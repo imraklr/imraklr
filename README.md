@@ -1,10 +1,10 @@
 <div align="center">
 
-# 𝓢ℴ𝒻𝓉𝓌𝒶𝓇ℯ Ξ𝓃ℊ𝒾𝓃ℯℯ𝓇
+# $${\color{#3674B5}𝓢ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space Ξ𝓃ℊ𝒾𝓃ℯℯ𝓇}$$
 
 </div>
 
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=50&bg_color=00000000&line=F79B72&area=true&area_color=F79B72&color=F79B72&hide_border=true&grid=false&hide_title=true&point=F79B72)](https://github.com/imraklr/github-readme-activity-graph)
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=50&bg_color=00000000&line=FADA7A&area=true&area_color=FADA7A&color=FADA7A&hide_border=true&grid=false&hide_title=true&point=FADA7A)](https://github.com/imraklr/github-readme-activity-graph)
 
 <div align="center">
   
@@ -46,7 +46,7 @@
 
 ##
 
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=DDDDDD&accent_color=F79B72&bg_color=00000000&author_color=F79B72" style="width: 100%;">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=578FCA&accent_color=FADA7A&bg_color=00000000&author_color=FADA7A" style="width: 100%;">
 
 <div align="center">
   <a>
