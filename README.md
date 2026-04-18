@@ -1,10 +1,10 @@
 <div align="center">
 
-# $${\color{#3674B5}𝓢ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space Ξ𝓃ℊ𝒾𝓃ℯℯ𝓇}$$
+# $${\color{#ffffff}𝓢ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space Ξ𝓃ℊ𝒾𝓃ℯℯ𝓇}$$
 
 </div>
 
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=50&bg_color=00000000&line=FADA7A&area=true&area_color=FADA7A&color=FADA7A&hide_border=true&grid=false&hide_title=true&point=FADA7A)](https://github.com/imraklr/github-readme-activity-graph)
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=50&bg_color=00000000&line=ffffff&area=true&area_color=ffffff&color=ffffff&hide_border=true&grid=false&hide_title=true&point=ffffff)](https://github.com/imraklr/github-readme-activity-graph)
 
 <div align="center">
   
