@@ -34,7 +34,7 @@
 
 ##
 
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=578FCA&accent_color=ffffff&bg_color=00000000&author_color=FADA7A" style="width: 100%;">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=578FCA&accent_color=ffffff&bg_color=00000000&author_color=ffffff" style="width: 100%;">
 
 <div align="center">
   <a>
