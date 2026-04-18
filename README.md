@@ -38,6 +38,6 @@
 
 <div align="center">
   <a>
-    <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=222222&style=flat" alt="imraklr"/>
+    <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=000000&style=flat" alt="imraklr"/>
   </a>
 </div>
