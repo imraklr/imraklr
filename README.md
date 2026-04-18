@@ -10,12 +10,6 @@
   
   ## 𝐿𝒾𝓃𝓀𝓈
   
-  <a href="https://" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-  </a>
-  <a href="www.linkedin.com/in/rakesh33/" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://stackoverflow.com/users/14105067/imraklr" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
@@ -24,9 +18,6 @@
   </a>
   <a href="mailto:rakesh.at.work.9@gmail.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://mastodon.social/@rkshkr" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/>
   </a>
 </div>
 
@@ -41,7 +32,6 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
 ##
