@@ -8,8 +8,6 @@
 
 <div align="center">
   
-  ## Links
-  
   <a href="https://stackoverflow.com/users/14105067/imraklr" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
@@ -23,16 +21,12 @@
 
 <div align="center">
 
-  ## Skills
-
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
-
-##
 
   <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=994433&accent_color=ffffff&bg_color=00000000&author_color=ffffff" style="width: 100%;">
 
