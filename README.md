@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝓢ℴ𝒻𝓉𝓌𝒶𝓇ℯ Ξ𝓃ℊ𝒾𝓃ℯℯ𝓇
+# SOFTWΛRΞ ΞNGINΞΞR
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ## 𝐿𝒾𝓃𝓀𝓈
+  ## Links
   
   <a href="https://stackoverflow.com/users/14105067/imraklr" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-  ## 𝒮𝓀𝒾𝓁𝓁𝓈
+  ## Skills
 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
