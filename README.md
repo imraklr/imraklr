@@ -4,8 +4,6 @@
 
 </div>
 
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=50&bg_color=00000000&line=994433&area=true&area_color=994433&color=994433&hide_border=true&grid=false&hide_title=true&point=994433)](https://github.com/imraklr/github-readme-activity-graph)
-
 <div align="center">
   
   <a href="https://stackoverflow.com/users/14105067/imraklr" style="margin: 0 10px;">
