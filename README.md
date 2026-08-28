@@ -28,10 +28,14 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
 
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=994433&accent_color=ffffff&bg_color=00000000&author_color=ffffff" style="width: 100%;">
+# 
 
 <div align="center">
+
+  $${ \color{#A67B5B} If \space a \space man \space knows \space not \space to \space which \space port \space he \space sails \space, \space no \space wind \space is \space favorable. }$$
+
   <a>
     <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=000000&style=flat" alt="imraklr"/>
   </a>
+
 </div>
