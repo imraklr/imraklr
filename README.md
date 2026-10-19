@@ -32,7 +32,7 @@
 
 <div align="center">
 
-  $${ \color{#A67B5B} If \space a \space man \space knows \space not \space to \space which \space port \space he \space sails \space, \space no \space wind \space is \space favorable. }$$
+  If a man knows not to which port he sails, no wind is favorable.
 
   <a>
     <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=000000&style=flat" alt="imraklr"/>
